@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Young Theologian's Podcast</title>
+    <link>https://the-young-theologians-podcast.blogspot.com/</link>
+    <language>en-us</language>
+    <copyright>&#169;2020 Josiah Bates</copyright>
+    <itunes:author>Josiah Bates</itunes:author>
+    <description>
+      A production for and from young people to support the study of Christian doctrine and theology through the context of denominational differences.
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>Josiah Bates</itunes:name>
+      <itunes:email>TheYoungTheologians.podcast@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://theyoungtheologianspodcast.github.io/Podcast%20Logo.png" />
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Podcast Introduction</itunes:title>
+      <description>
+        This much shorter episode will serve as an overview of the reasoning and motivation behind the podcast, and what sort of things you can expect to find on here in the coming months.
+      </description>
+      <enclosure length="3432170" type="audio/mpeg" url="https://theyoungtheologianspodcast.github.io/E0%20Intro.mp3" />
+      <guid>YOUNGTHEO20200628Intro</guid>
+      <pubDate>Sun, 28 Jun 2020 17:00:00 GMT -0600</pubDate>
+      <itunes:duration>214</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
